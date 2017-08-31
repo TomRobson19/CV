@@ -165,7 +165,7 @@ GCSE - June 2012:
 \end_layout
 
 \begin_layout Standard
-Maths - A*, English – A, Greek - A*, Latin - A (taken in June 2011)
+Maths - A*, English – A, Greek - A*, Latin - A 
 \end_layout
 
 \begin_layout Subsubsection*
@@ -197,6 +197,16 @@ ks Dataflow (HDF).
  I then carried out performance testing of the workflow using bash and python
  scripts to run tests with certain parameters and gather metrics from the
  Ambari Metrics API.
+ During this project, I was part of a larger development team using the
+ agile development methodology, and was involved in their sprints, and managed
+ my work through Atlassian JIRA and documented in Confluence.
+ This taught me a great deal about the process of enterprise level software
+ development, and gave me a greater understanding of the importance of making
+ code maintainable and extendable, as well as increasing my level of familiarity
+ with agile development.
+ Technically, this developed my hardware skills as I had to do a great deal
+ of configuring Linux virtual machines and fixing problems assotiated with
+ this, as well as improving my development skills.
 \end_layout
 
 \begin_layout Subsection*
