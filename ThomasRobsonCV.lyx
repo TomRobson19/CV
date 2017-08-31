@@ -93,9 +93,8 @@ Profile
 \end_layout
 
 \begin_layout Standard
-I am a third year Computer Scientist seeking an Internship for the summer
- of 2017 in a prestigious and innovative company where I can continue to
- enhance my skills.
+I am a fourth year Computer Scientist seeking a graduate role in a prestigious
+ and innovative company where I can continue to enhance my skills.
  I believe that I can offer strong technical and organisational skills,
  along with a professional attitude and good communication skills.
 \end_layout
@@ -106,7 +105,7 @@ Degree
 
 \begin_layout Standard
 Currently studying towards MEng in Computer Science at Durham University.
- Achieved a 1st in the first and second years of study.
+ Achieved a 1st in the first, second and third years of study.
 \end_layout
 
 \begin_layout Itemize
@@ -162,11 +161,11 @@ Extended Essay on the theoretical grounding of Computer Science, exploring
 \end_layout
 
 \begin_layout Subsubsection*
-GCSE: 
+GCSE - June 2012: 
 \end_layout
 
 \begin_layout Standard
-Maths - A*, English – A, Greek - A*, Latin - A
+Maths - A*, English – A, Greek - A*, Latin - A (taken in June 2011)
 \end_layout
 
 \begin_layout Subsubsection*
@@ -180,6 +179,24 @@ Full range of subjects studied, achieved six 7s and three 6s.
 
 \begin_layout Section*
 Work experience 
+\end_layout
+
+\begin_layout Subsection*
+BAE Systems Applied Intelligence July 2017 - September 2017
+\end_layout
+
+\begin_layout Standard
+As an intern software engineer, I worked on a data ingest system using Hortonwor
+ks Dataflow (HDF).
+ This made use of Apache NiFi and Kafka to create a workflow able to take
+ in data from a TCP socket and transfer it into ElasticSearch and Hadoop
+ Distributed File System (HDFS).
+ This involved writing two custom NiFi processors in Java for conversion
+ between file formats and setting up a multi-node cluster, managed by Ambari
+ Server, to run the workflow.
+ I then carried out performance testing of the workflow using bash and python
+ scripts to run tests with certain parameters and gather metrics from the
+ Ambari Metrics API.
 \end_layout
 
 \begin_layout Subsection*
